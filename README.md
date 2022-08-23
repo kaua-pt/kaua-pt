@@ -1,9 +1,3 @@
-
-- Hello , My name is Kauã Vinícius and i'm a Software Engineer
-- I'm currently studying on UnB
-- I'm currently learning about: JavaScript, Python and Node
-- Instagram : @kauaponte
-
 ### Hello , My name is Kauã Vinícius and i'm a Software Engineer from University of Brasilia
 
 I'm currently learning about: Dart, Web development, OOP and Data Structure
