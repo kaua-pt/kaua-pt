@@ -10,6 +10,8 @@ I'm currently learning about: Dart, Web development, OOP and Data Structure
 def KauaVinicius():
     name = "Kauã Vinícius Ponte Aguiar"
     languages = ["Python","Java","C","JavaScript","Dart"]
+    frameworks = ["Node","React","Flutter"]
+    instagram = "@kauaponte"
     
 ```
 
