@@ -13,7 +13,7 @@ def KauaVinicius():
     
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Languages and tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -23,6 +23,7 @@ def KauaVinicius():
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
 
 
 ## **GitHub Statistics**
@@ -34,14 +35,3 @@ def KauaVinicius():
 <a href="https://github.com/kaua-pt">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaua-pt&show_icons=true&theme=dracula&line_height=27" alt="kaua-pt github stats"/>
 </a>
-
-[website]:
-[instagram]: https://www.instagram.com/kauaponte/
-[linkedin]: https://www.linkedin.com/in/kau%C3%A3-vin%C3%ADcius-0ba510239/
-<br>
-
-#### Rede Sociais!
-
-🏡 [website][website] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
