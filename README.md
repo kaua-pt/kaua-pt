@@ -1,6 +1,6 @@
 ### Hello , My name is Kauã Vinícius and i'm a Software Engineer from University of Brasilia
 
-I'm currently learning about: Dart, Web development, OOP and Data Structure
+I'm currently learning about: C#, Web development, Game Development and Data Structure
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More About Me
 
@@ -9,9 +9,10 @@ I'm currently learning about: Dart, Web development, OOP and Data Structure
 ```python
 def KauaVinicius():
     name = "Kauã Vinícius Ponte Aguiar"
-    languages = ["Python","Java","C","JavaScript","Dart"]
-    frameworks = ["Node","React","Flutter"]
+    languages = ["Python","Java","C","JavaScript","Dart","C#","TypeScrip"]
+    frameworks = ["Node","React","Flutter","dotNet"]
     instagram = "@kauaponte"
+    email = kauaponte@hotmail.com
     
 ```
 
@@ -26,6 +27,7 @@ def KauaVinicius():
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c#.svg"></code>
 </div>
 
 ## **GitHub Statistics**
