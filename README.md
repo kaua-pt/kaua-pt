@@ -12,7 +12,7 @@ def KauaVinicius():
     languages = ["Python","Java","C","JavaScript","Dart","C#","TypeScrip"]
     frameworks = ["Node","React","Flutter","dotNet"]
     instagram = "@kauaponte"
-    email = kauaponte@hotmail.com
+    email = "kauaponte@hotmail.com"
     
 ```
 
