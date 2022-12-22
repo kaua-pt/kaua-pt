@@ -27,7 +27,6 @@ def KauaVinicius():
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c#.svg"></code>
 </div>
 
 ## **GitHub Statistics**
