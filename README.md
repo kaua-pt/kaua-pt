@@ -16,7 +16,7 @@ def KauaVinicius():
 
 ## **Languages and tools:**  
 <div align = "Center">
-![Tecnologias](https://skillicons.dev/icons?i=js,html,css,react,nodejs,typescript,git,github,prisma,postgres,js,cs,c,java,python,flutter)
+![Tecnologias]( https://skillicons.dev/icons?i=js,html,css,react,nodejs,typescript,git,github,prisma,postgres,js,cs,c,java,python,flutter )
 </div>
 
 ## **GitHub Statistics**
