@@ -16,7 +16,18 @@ def KauaVinicius():
 
 ## **Languages and tools:**  
 <div align = "Center">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg
+
+   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  
+
 https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
 https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg
 https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg
