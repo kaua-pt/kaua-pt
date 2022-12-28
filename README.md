@@ -18,26 +18,20 @@ def KauaVinicius():
 <div align = "Center">
 
    <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
-https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg
-https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg
-https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg
-https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg
-https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg
-https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg
-https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
-https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg
-https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg  
+
 </div>
 
 ## **GitHub Statistics**
