@@ -16,7 +16,17 @@ def KauaVinicius():
 
 ## **Languages and tools:**  
 <div align = "Center">
-[https://skillicons.dev/icons?i=js,react,nodejs,typescript,git,github,prisma,postgres,cs,c,java,python,flutter]
+https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg  
 </div>
 
 ## **GitHub Statistics**
