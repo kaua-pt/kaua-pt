@@ -7,7 +7,7 @@ I'm currently learning about: C#, Web development, Game Development and Data Str
 ```python
 def KauaVinicius():
     name = "Kauã Vinícius Ponte Aguiar"
-    languages = ["Python","Java","C","JavaScript","Dart","C#","TypeScrip"]
+    languages = ["Python","Java","C","JavaScript","Dart","C#","TypeScript"]
     frameworks = ["Node","React","Flutter","dotNet"]
     instagram = "@kauaponte"
     email = "kauaponte@hotmail.com"
