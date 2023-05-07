@@ -1,6 +1,6 @@
 <img src="gifgit.gif" min-width="350px" max-width="350px" width="350px" align="right" >
 
-# Hi, I'm Kauã
+# 💢 Hi, I'm Kauã
 
 - :book: 5th semester Software Engineering student at the [University of Brasilia](https://unb.br/).
 - 💻 Backend programmer.
@@ -16,7 +16,7 @@
  
 </div>
 
-## **GitHub Statistics**
+## 😾 **GitHub Statistics**
 
 <a href="https://github.com/kaua-pt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-pt&theme=dracula&hide_langs_below=1" />
