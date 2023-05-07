@@ -23,6 +23,6 @@
   <img align="center" height="240em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-pt&theme=dracula&layout=compact" />
 </a>
 <a href="https://github.com/kaua-pt">
- <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=kaua-pt&show_icons=true&theme=dracula&line_height=27" alt="kaua-pt github stats"/>
+ <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=kaua-pt&show_icons=true&theme=dracula&line_height=27" alt="kaua-pt github stats"/>
 </a>
 </div>
