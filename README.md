@@ -1,37 +1,17 @@
-### Hello , My name is Kauã Vinícius and i'm a Software Engineer from University of Brasilia
+<img src="gifgit.gif" min-width="350px" max-width="350px" width="350px" align="right" >
 
-I'm currently learning about: C#, Web development, Game Development and Data Structure
+# Hi, I'm Kauã
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More About Me
+- 5th semester Software Engineering student at the [University of Brasilia](https://unb.br/).
+- Backend programmer.
+- Fluent in english.
+- Intermediate in Photoshop and illustrator
+- Learning about Data structure and frontend
 
-```python
-def KauaVinicius():
-    name = "Kauã Vinícius Ponte Aguiar"
-    languages = ["Python","Java","C","JavaScript","Dart","C#","TypeScript"]
-    frameworks = ["Node","React","Flutter","dotNet"]
-    instagram = "@kauaponte"
-    email = "kauaponte@hotmail.com"
-    
-```
-
-## **Languages and tools:**  
-<div align = "Center">
-
-   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-
-
+ <a href="https://www.instagram.com/kaua.ponte" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=blue" target="_blank"></a>
+ <a href = "kauaponte222@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
+ <a href = "https://www.linkedin.com/in/kau%C3%A3-vin%C3%ADcius-0ba510239/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=blue" target="_blank"></a>
+ 
 </div>
 
 ## **GitHub Statistics**
