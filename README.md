@@ -2,11 +2,12 @@
 
 # Hi, I'm Kauã
 
-- 5th semester Software Engineering student at the [University of Brasilia](https://unb.br/).
-- Backend programmer.
-- Fluent in english.
-- Intermediate in Photoshop and illustrator
-- Learning about Data structure and frontend
+- :book: 5th semester Software Engineering student at the [University of Brasilia](https://unb.br/).
+- 💻Backend programmer.
+- :right_anger_bubble: Fluent in english.
+- 🧙🏼‍♂️ Intermediate in Photoshop and illustrator
+- 🚀Learning about Data structure and frontend
+- ✠ [Vasco da Gama](https://vasco.com.br/)
 
  <a href="https://www.instagram.com/kaua.ponte" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=blue" target="_blank"></a>
  <a href = "kauaponte222@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
