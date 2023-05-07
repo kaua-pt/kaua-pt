@@ -18,10 +18,11 @@
 
 ## 😾 **GitHub Statistics**
 
+<div justify-content= "space-between"> 
 <a href="https://github.com/kaua-pt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-pt&theme=dracula&hide_langs_below=1" />
 </a>
-
 <a href="https://github.com/kaua-pt">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaua-pt&show_icons=true&theme=dracula&line_height=27" alt="kaua-pt github stats"/>
 </a>
+</div>
