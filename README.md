@@ -4,7 +4,7 @@
 
 - :book: 5th semester Software Engineering student at the [University of Brasilia](https://unb.br/).
 - 💻 Backend programmer.
-- 🏹 Python, C# and TypeScript
+- 🏹 Python, Golang, C# and TypeScript
 - :right_anger_bubble: Fluent in english.
 - 🧙🏼‍♂️ Intermediate in Photoshop and illustrator
 - 🚀 Learning about Data structure and frontend
