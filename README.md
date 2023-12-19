@@ -10,7 +10,6 @@
 - 🚀 Learning about Data structure and frontend
 - ✠  [Vasco da Gama](https://vasco.com.br/)
 
- <a href="https://www.instagram.com/kaua.ponte" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=blue" target="_blank"></a>
  <a href = "kauaponte222@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
  <a href = "https://www.linkedin.com/in/kau%C3%A3-vin%C3%ADcius-0ba510239/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=blue" target="_blank"></a>
  <a href = "https://t.me/Kaua_ponte"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=Telegram&logoColor=blue" target="_blank"></a>
