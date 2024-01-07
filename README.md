@@ -2,7 +2,7 @@
 
 # 💢 Hi, I'm Kauã
 
-- :book: 6th semester Software Engineering student at the [University of Brasilia](https://unb.br/).
+- :book: 7th semester Software Engineering student at the [University of Brasilia](https://unb.br/).
 - 💻 Backend programmer.
 - 🏹 Python, Golang, C# and TypeScript
 - :right_anger_bubble: Fluent in english.
