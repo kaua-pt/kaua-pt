@@ -5,7 +5,7 @@
 - :book: 8th semester Software Engineering student at the [University of Brasilia](https://unb.br/).
 - 💻 Backend programmer.
 - 📖 Intern at [Nova Web](https://novaweb.mobi/)
-- 🏹 Python, Golang, C# and TypeScript
+- 🏹 Python, C# and TypeScript
 - :right_anger_bubble: Fluent in english.
 - 🧙🏼‍♂️ Intermediate in Photoshop and illustrator
 - 🚀 Learning about C# and API development
