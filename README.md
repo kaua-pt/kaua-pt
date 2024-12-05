@@ -8,7 +8,8 @@
 - 🏹 Python, C# and TypeScript
 - :right_anger_bubble: Fluent in english.
 - 🧙🏼‍♂️ Intermediate in Photoshop and illustrator
-- 🚀 Learning about C# and API development
+- 🚀 Learning about C# and Aspire
+- 🆕 Write and implement [Emergent Software Architecture](https://github.com/Arquiteturas-emergentes-e-algoritmos)
 - ✠  [Vasco da Gama](https://vasco.com.br/)
 
  <a href = "kauaponte222@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
