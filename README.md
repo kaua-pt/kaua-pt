@@ -8,7 +8,7 @@
 - 🏹 Python, C# and TypeScript
 - :right_anger_bubble: Fluent in english.
 - 🧙🏼‍♂️ Intermediate in Photoshop and illustrator
-- 🚀 Learning about C# and Aspire
+- 🚀 Learning about SMA and Docker
 - 🆕 Writed and implemented [Emergent Software Architecture](https://github.com/Arquiteturas-emergentes-e-algoritmos)
 - ✠  [Vasco da Gama](https://vasco.com.br/)
 
