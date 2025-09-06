@@ -2,7 +2,7 @@
 
 # 💢 Hi, I'm Kauã
 
-- :book: 9th semester Software Engineering student at the [University of Brasilia](https://unb.br/).
+- :book: 10th semester Software Engineering student at the [University of Brasilia](https://unb.br/).
 - 💻 Backend programmer.
 - 📖 Intern at [Nova Web](https://novaweb.mobi/)
 - 🏹 Python, C# and TypeScript
